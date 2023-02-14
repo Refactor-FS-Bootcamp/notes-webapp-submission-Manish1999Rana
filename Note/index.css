@@ -1,0 +1,9 @@
+.plates{
+    background-color: black;
+    color: white;
+    margin: 5px;
+    padding: 5px;
+}
+p{
+    display: flex;
+}
